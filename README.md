@@ -9,7 +9,7 @@ Data Analysis project part of the DATA SCIENTIST curriculum of Openclassrooms
 > For this analysis, we started from a food database (320772 lines,162 features) with there nutritional specifications.
 > First, we had to familiarize ourselves with the subject, by reading some specialized articles. 
 > This helped us orient the beginning of the study and eliminate a large number of redundant variables and understand
-> the importantance of the _nutrition grade_.
+> the importance of the _nutrition grade_.
 
 > **Questions Analysed**: After inspecting and cleaning this dataset, we focused on the nutritional advantages and disadvantages of different types of food.
 
@@ -31,3 +31,5 @@ Learning, Inferential Statistics or Statistical Tests were used.
 >- a lower level of saturated fats (median < 20%)
 >- a lower level of carbohydrates (median < 13g/100g)
 >- a lower level of salt (median < 0.46 g/100g)
+
+> Some other nutriments as _proteins_ aren't specific to a particular **nutrtion grade** 
